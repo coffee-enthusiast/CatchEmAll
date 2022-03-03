@@ -1,0 +1,8 @@
+Bulbasaur	1	Tackle	3	Vine-Whip	12	Razor-Leaf	18	Seed-Bomb	21	Take-Down	33	Double-Edge
+Ivysaur	1	Tackle	1	Vine-Whip	12	Razor-Leaf	20	Seed-Bomb	25	Take-Down	45	Double-Edge
+Venusaur	1	Petal-Blizzard	1	Tackle	1	Vine-Whip	12	Razor-Leaf	20	Seed-Bomb	25	Take-Down	51	Double-Edge
+Charmander	1	Scratch	17	Fire-Fang	20	Slash	40	Flare-Blitz
+Charmeleon	1	Scratch	19	Fire-Fang	24	Slash	54	Flare-Blitz
+Charizard	1	Scratch	19	Fire-Fang	24	Slash	62	Flare-Blitz
+
+
